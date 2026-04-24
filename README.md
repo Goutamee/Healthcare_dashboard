@@ -2,10 +2,6 @@
 
 ## 1. 🏷️ Headline
 
-**Ropollo Healthcare Analytics Dashboard – Patient & Hospital Operations Intelligence**
-
-or alternatively:
-
 **Ropollo Hospital Performance Dashboard | Patient Insights & Billing Analytics (2022–2024)**
 
 ---
