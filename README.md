@@ -24,7 +24,7 @@ This dashboard provides a comprehensive analytics view of Ropollo Healthcare's h
 ## 4. 📦 Data Source
 
 **More info on where data come from and how it's structured.**
-- **source: Kaggle.**
+- **Source: Kaggle.**
 - **File:** `Ropollo-Healtcare-Dataset.xlsx`
 - **Sheet:** `Sheet1`
 - **Records:** 7,157 patient entries
